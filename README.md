@@ -40,7 +40,7 @@ She/Her
 ---
 
 ##  Fun fact
-I’m not affiliated with an institution—but I’ve launched research campaigns, presented at public events, contributed to AAVSO, Slooh, and Lasair, and built a full-stack observational practice from scratch. My telescope is my voice—and I’m just getting started. 🌌- 👋 Hi, I’m @girijayaduvanshi
+I’m not affiliated with an academic institution—but I’ve launched research campaigns, presented at public events, contributed to AAVSO, Slooh, and Lasair, and built a full-stack observational practice from scratch. My telescope is my voice—and I’m just getting started. 
 
 
 <!---
